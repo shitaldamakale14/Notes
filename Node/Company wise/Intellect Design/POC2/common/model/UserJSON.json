@@ -1,0 +1,46 @@
+[{
+"id": "SA101",
+"fName": "John",
+"lName": "Carter",
+"email": "k@gmail.com",
+"pincode": 208001,
+"birtdate": "07-Dec-1992",
+"isActive": true,
+"toDos": {
+"id": "td101",
+"text": "Node Js Assignment",
+"done": true,
+"targetDate": "07-Nov-2017"
+}
+},
+{
+"id": "SA102",
+"fName": "Mita",
+"lName": "Patel",
+"email": "m@gmail.com",
+"pincode": 208007,
+"birtdate": "17-Dec-1987",
+"isActive": false,
+"toDos": {
+"id": "td102",
+"text": "Java Assignment",
+"done": false,
+"targetDate": "31-Oct-2017"
+}
+},
+{
+"id": "SA103",
+"fName": "Neha",
+"lName": "Shekh",
+"email": "n@gmail.com",
+"pincode": 238001,
+"birtdate": "07-Dec-1992",
+"isActive": true,
+"toDos": {
+"id": "td103",
+"text": "Node Js requirement",
+"done": true,
+"targetDate": "01-Nov-2017"
+}
+}
+]
